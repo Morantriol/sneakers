@@ -1,0 +1,40 @@
+.banner {
+  position: relative;
+  height: 300px;
+  width: 100%;
+  background: #f4efe9;
+  border-radius: 20px;
+}
+
+.logo {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+}
+
+.bannerText {
+  position: absolute;
+  left: 60px;
+  top: 90px;
+  width: 240px;
+  height: 102px;
+
+  h2 {
+    font-weight: bold;
+    font-size: 38px;
+    line-height: 46px;
+  }
+
+  span {
+    color: #8BB43C;
+  }
+}
+
+.sneakers {
+  position: absolute;
+  right: 0;
+  top: 0;
+  overflow: hidden;
+  width: 641.18px;
+  height: 300px;
+}
